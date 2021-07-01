@@ -1,3 +1,10 @@
 #gamecards {
     font-size: 36px;
 }
+
+#card_soundspace {
+    border: 5px;
+    border-color: #9955ff;
+    border-style: solid;
+    width: 500px;
+}
