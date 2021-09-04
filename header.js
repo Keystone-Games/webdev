@@ -7,3 +7,8 @@ function b_sg()
 { 
     top.window.location.href = "https://keystone-games.github.io/games";
 }
+
+function b_akg() 
+{ 
+    top.window.location.href = "https://keystone-games.github.io/about";
+}
