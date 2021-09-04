@@ -1,5 +1,12 @@
+@font-face {
+    font-family: vcr_osd_mono;
+    src: url("./../assets/fonts/VCR_OSD_MONO.ttf");
+}
+
 #gamecards {
     font-size: 36px;
+    color: #9955ff;
+    font-family: vcr_osd_mono;
 }
 
 #card_soundspace {
