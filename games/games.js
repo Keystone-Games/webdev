@@ -17,7 +17,6 @@ function b_blockate_d()
 {
     window.location.href = "../blockate/download/";
 }
-}
 
 function b_mealmania_i()
 {
