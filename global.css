@@ -38,7 +38,7 @@ button {
 button:hover {
     background-color: #6633DD;
     border: #0000DD;
-    transition: 0.3s;
+    transition: 0.7s;
 }
 
 .header {
