@@ -11,3 +11,7 @@
     font-family: monsterrat;
     font-weight: 5000;
 }
+
+body {
+    background-image: url("./../assets/images/PauloPinapple.png");
+}
