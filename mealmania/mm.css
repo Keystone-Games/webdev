@@ -5,4 +5,9 @@
 
 .gMMTitle {
     font-family: monsterrat;
+    font-weight: 10000;
+}
+.gMMDesc {
+    font-family: monsterrat;
+    font-weight: 5000;
 }
