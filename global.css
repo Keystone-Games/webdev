@@ -7,10 +7,14 @@
 @font-face {
     font-family: monsterrat;
     src: url("/assets/fonts/monsterrat.ttf");
+    font-weight: normal;
+    font-style: normal;
 }
 @font-face {
     font-family: "VCR OSD Mono";
     src: url("/assets/fonts/monsterrat.ttf");
+    font-weight: normal;
+    font-style: normal;
 }
 
 h1 {
