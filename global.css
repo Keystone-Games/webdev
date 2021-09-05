@@ -1,12 +1,14 @@
 @font-face {
     font-family: 'Perfect DOS VGA 437';
-    src: url('/assets/fonts/Perfect DOS VGA 437.ttf') format('truetype');
+    src: url('/assets/fonts/Perfect DOS VGA 437.ttf') format('truetype'),
+    url("/assets/fonts/Perfect DOS VGA 437.woff") format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'VCR OSD Mono';
-    src: url("/assets/fonts/VCR_OSD_MONO.ttf") format('truetype');
+    src: url("/assets/fonts/VCR_OSD_MONO.ttf") format('truetype'),
+    url("/assets/fonts/VCR_OSD_MONO.woff") format('woff');
     font-weight: normal;
     font-style: normal;
 }
