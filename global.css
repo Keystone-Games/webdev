@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'Perfect DOS VGA 437';
-    src: url('assets/fonts/Perfect DOS VGA 437.ttf') format('truetype');
+    src: url('/assets/fonts/Perfect DOS VGA 437.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: monsterrat;
-    src: url("./../assets/fonts/monsterrat.ttf");
+    src: url("/assets/fonts/monsterrat.ttf");
 }
 @font-face {
     font-family: "VCR OSD Mono";
-    src: url("./../assets/fonts/monsterrat.ttf");
+    src: url("/assets/fonts/monsterrat.ttf");
 }
 
 h1 {
@@ -30,7 +30,7 @@ h4 {
     color: #9955ff
 }
 p {
-    font-family: monsterrat;
+    font-family: 'Perfect DOS VGA 437';
     color: white
 }
 
