@@ -2,13 +2,7 @@
     font-family: 'Perfect DOS VGA 437';
     src: url('/assets/fonts/Perfect DOS VGA 437.ttf') format('truetype');
     font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: monsterrat;
-    src: url("/assets/fonts/monsterrat.ttf");
-    font-weight: normal;
-    font-style: normal;
+    font-style:}normal;
 }
 @font-face {
     font-family: "VCR OSD Mono";
