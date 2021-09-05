@@ -27,3 +27,7 @@ function b_mealmania_d()
 {
     window.location.href = "../mealmania/download/";
 }
+
+function initCards() {
+    cards = document.getElementsByClassName("card");
+}
