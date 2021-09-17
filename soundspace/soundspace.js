@@ -33,3 +33,10 @@ function downloadForDevice(os) {
         window.location.href = "ios";
     }
 }
+
+function playG() {
+    window.location.href = "preview/";
+}
+function downloadG() {
+    window.location.href = "download/";
+}
