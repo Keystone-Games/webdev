@@ -1,0 +1,17 @@
+{
+  "top": {
+    "latest-release": "0.0.0.0",
+    "latest-beta": "0.0.0.0",
+    "latest-dev": "0.0.10.0",
+    "latest-us": "0.0.10.4",
+    "recommended": "0.0.10.4"
+  },
+  "release": {},
+  "beta": {},
+  "dev": {
+    "0.0.10.0": ""
+  },
+  "us": {
+    "0.0.10.1": ""
+  }
+}
