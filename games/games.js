@@ -31,13 +31,13 @@ function b_mealmania_d()
 function b_thehallway_i()
 {
     window.location.href = "../thehallway/";
-    alert("This game does not have a finished website!");
+    window.alert("This game does not have a finished website!");
 }
 
 function b_thehallway_d()
 {
     window.location.href = "../thehallway/download/";
-    alert("This game is currently not ready to download!");
+    window.alert("This game is currently not ready to download!");
 
 
 function initCards() {
