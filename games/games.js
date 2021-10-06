@@ -28,6 +28,16 @@ function b_mealmania_d()
     window.location.href = "../mealmania/download/";
 }
 
+function b_thehallway_i()
+{
+    window.location.href = "../thehallway/";
+}
+
+function b_thehallway_d()
+{
+    window.location.href = "../thehallway/download/";
+
+
 function initCards() {
     cards = document.getElementsByClassName("card");
 }
