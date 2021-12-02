@@ -11,20 +11,15 @@
         <link rel="stylesheet" href="/header.css">
     </head>
     <body>
-        <div class="header" align="center" id="top">
-            <h1 id="t_h1_kgn" onclick="t_h1_kgn()">Keystone Games</h1>
-            
-            <div id="hpb">
-            <button id="b_gh" onclick="t_h1_kgn()">Home</button>
-            <!-- gh stands for "Go Home" -->
-            
-            <button id="b_sg" onclick="b_sg()">Games</button> 
-            <!-- sg stands for "Search Games" -->
-            
-            <button id="b_akg" onclick="b_akg()">About</button> 
-            <!-- akg stands for "About Keystone Games" -->
-            </div>
+        <div class="header" height="85px" width="100%">
+            <ul>
+                <li><img class="logo" src="logo.png" height="65px" top="50%" style="float:left"></img></li>
         
-        </div>
+                <li class="buttons" style="float:right"><button id="home" onclick="home()">Home</button></li>
+                
+                <li class="buttons" style="float:right"><button id="games" onclick="games()">Games</button></li>
+            
+                <li class="buttons" style="float:right"><button id="about" onclick="about()">About</button></li>
+            </ul>
     </body>
 </html>
