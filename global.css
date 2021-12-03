@@ -48,6 +48,7 @@ button {
     font-size: 13px;
     text-align: center;
     transition: 0.3s;
+    border-radius: 12px;
 }
 button:hover {
     background-color: #6633DD;
