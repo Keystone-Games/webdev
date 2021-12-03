@@ -38,6 +38,17 @@ function b_thehallway_d()
 {
     window.location.href = "../thehallway/download/";
     window.alert("This game is currently not ready to download!");
+}
+
+function b_8flights_i()
+{
+    window.location.href = "../8flights/";
+}
+
+function b_8flights_d()
+{
+    window.location.href = "../8flights/download/";
+}
 
 
 function initCards() {
