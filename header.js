@@ -12,3 +12,8 @@ function b_akg()
 { 
     top.window.location.href = "https://keystone-games.github.io/about";
 }
+
+function f_gh()
+{
+    top.window.location.href="https://keystone-games.github.io/faq";
+}
