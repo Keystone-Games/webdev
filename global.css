@@ -55,6 +55,7 @@ button:hover {
     background-color: #6633DD;
     border: #00ffdd;
     transition: 0.7s;
+    border-style: solid;
 }
 
 .header {
