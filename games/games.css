@@ -8,7 +8,7 @@
     color: #9955ff;
 }
 
-#card_soundspace {
+/*#card_soundspace {
     border: 5px;
     border-color: #9955ff;
     border-style: solid;
@@ -32,8 +32,11 @@
     border: 5px;
     border-color: #9955ff;
     border-style: solid;
-}
+}*/
 .card {
     width: 500px;
     height: 485px;
+    border: 5px;
+    border-color: #9955ff;
+    border-style: solid;
 }
